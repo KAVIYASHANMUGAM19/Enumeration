@@ -59,13 +59,6 @@ Check all NS records for zone transfers
 Enumerate general DNS records for a given domain (MX, SOA, NS, A, AAAA, SPF , TXT)
 Perform common SRV Record Enumeration
 Top level domain expansion
-## OUTPUT:
-
-
-
-
-
-
 
 ##dnsenum
 Dnsenum is a multithreaded perl script to enumerate DNS information of a domain and to discover non-contiguous ip blocks. The main purpose of Dnsenum is to gather as much information as possible about a domain. The program currently performs the following operations:
@@ -96,8 +89,6 @@ Telnet allows to connect to remote host based on the port no. For smtp port no i
 telnet <host address> 25 to connect
 and issue appropriate commands
   
- ##Output
-  
   
 
 ## nmap –script smtp-enum-users.nse <hostname>
@@ -106,6 +97,80 @@ The smtp-enum-users.nse script attempts to enumerate the users on a SMTP server 
 
 
 ## OUTPUT:
+
+## site:
+
+<img width="1596" height="908" alt="site" src="https://github.com/user-attachments/assets/802bd645-704b-4816-8ce9-4b29a57429b6" />
+
+ 
+## filetype:
+
+<img width="1655" height="905" alt="filetype" src="https://github.com/user-attachments/assets/e8776cbc-e289-4aa7-9605-aee18fadee6d" />
+
+
+## intext:
+
+<img width="1728" height="917" alt="intext" src="https://github.com/user-attachments/assets/8ab1d9eb-3b00-4635-abdc-7cf3add672eb" />
+
+
+
+## inurl:
+
+<img width="1686" height="904" alt="inurl" src="https://github.com/user-attachments/assets/84aa4223-8f2b-4ac8-8d8f-f207f70d2a4e" />
+
+
+
+## intitle:
+
+<img width="1691" height="907" alt="intitle" src="https://github.com/user-attachments/assets/bc3c3a1b-19ba-403d-95ea-17c5f9321405" />
+
+
+## link:
+
+<img width="1874" height="970" alt="link" src="https://github.com/user-attachments/assets/231f0ecf-f42b-4342-bc1f-ad6294e0b787" />
+
+
+## cache:
+
+<img width="1640" height="909" alt="cache" src="https://github.com/user-attachments/assets/676bf48b-4f05-4aa8-b857-a98d8353dced" />
+
+
+
+## DNS Enumeration:
+
+## DNS Recon:
+
+<img width="940" height="708" alt="DNS Recon" src="https://github.com/user-attachments/assets/f259e507-42a1-4830-bb2e-bf59f7ddfe7d" />
+
+
+## dnsenum:
+
+<img width="949" height="692" alt="dnsenum" src="https://github.com/user-attachments/assets/3c0d4bbb-9899-4fa0-8e07-e7efb63094c4" />
+
+
+<img width="952" height="779" alt="dnsenum " src="https://github.com/user-attachments/assets/80dfbc8b-8269-4d55-b994-6fb38f55d5fd" />
+
+
+
+## smtp-user-enum:
+
+<img width="956" height="439" alt="smtp-user-enum" src="https://github.com/user-attachments/assets/675d6d7e-93d4-4bc6-8046-7918290946fa" />
+
+
+<img width="942" height="436" alt="smtp" src="https://github.com/user-attachments/assets/01c1d6c3-776a-43ab-b3f4-599a3856f823" />
+
+
+
+## telnet:
+
+<img width="955" height="598" alt="telnet" src="https://github.com/user-attachments/assets/012b1201-08f5-4d01-a1ef-f3fe83895c17" />
+
+
+## nmap –script smtp-enum-users.nse :
+
+<img width="951" height="280" alt="nmap script" src="https://github.com/user-attachments/assets/25b69cb0-57e3-45e4-805c-133a9040781e" />
+
+
 
 
 ## RESULT:
